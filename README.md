@@ -57,6 +57,6 @@ I also create **YouTube videos** covering:
 
 ## 💬 **Let's Connect!**
 📧 **Email**: [udykirann@gmail.com]  
-🔗 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/udaykiranpilla)  
-🎥 **YouTube**: [Your Channel](https://www.youtube.com/udaytechtips)
+🔗 **LinkedIn**: [Linkedin](https://linkedin.com/in/udaykiranpilla)  
+🎥 **YouTube**: [Uday Tech Tips](https://www.youtube.com/udaytechtips)
 ---
